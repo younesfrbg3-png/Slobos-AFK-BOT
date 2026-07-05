@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "AFK_BOT32542",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "HrterAttack1.aternos.me:38530",
+    "ip": "HrterAttack1.aternos.me",
     "port": 38530,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
