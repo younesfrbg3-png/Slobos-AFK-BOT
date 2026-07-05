@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HrterAttack1.aternos.me",
+    "ip": "HrterAttack1.aternos.me:38530",
     "port": 38530,
     "version": "1.21.1"
   },
